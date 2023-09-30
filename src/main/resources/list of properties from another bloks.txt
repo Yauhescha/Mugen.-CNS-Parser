@@ -1,0 +1,11 @@
+data
+[defence, fall.defence_up, sparkno, life, volume, FloatPersistIndex, IntPersistIndex, attack, KO.echo, guard.sparkno, power, airjuggle, liedown.time]
+
+size
+[air.front, mid.pos, draw.offset, head.pos, yscale, proj.attack.dist, ground.front, air.back, attack.dist, shadowoffset, ground.back, xscale, proj.doscale, height]
+
+velocity
+[run.back, airjump.back, walk.fwd , walk.back, jump.fwd, runjump.back, jump.neu, runjump.fwd, airjump.fwd, run.fwd , jump.back, airjump.neu]
+
+movement
+[yaccel, airjump.num, stand.friction, crouch.friction, airjump.height]
